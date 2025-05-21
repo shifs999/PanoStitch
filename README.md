@@ -29,7 +29,7 @@ Panorama is prevalent in camera software of smartphones. It is a method in which
    ** Install the requirements.txt file.
    ```sh
    !pip install -r requirements.txt
-   
+   ```
 
 4. #### Add your custom images to the `input_img/` folder manually or using the command line:
     ```sh
