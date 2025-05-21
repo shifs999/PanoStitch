@@ -18,7 +18,6 @@ Panorama is prevalent in camera software of smartphones. It is a method in which
     cd PanoStitch
      ```
 
-
 2. #### Create and activate the conda environment:
 
     ```sh
@@ -125,7 +124,7 @@ Panorama is prevalent in camera software of smartphones. It is a method in which
 - [First Principles of Computer Vision - Shree K. Nayar](https://fpcv.cs.columbia.edu/)
 - https://github.com/OpenStitching/stitching.git
 - [Distinctive Image Features from Scale-Invariant Keypoints(SIFT) Paper](https://people.eecs.berkeley.edu/~malik/cs294/lowe-ijcv04.pdf)
-
+- [Single-Perspective Warps in Natural Image Stitching Paper](https://arxiv.org/pdf/1802.04645)
 ---
 
 
