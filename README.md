@@ -31,16 +31,17 @@ Panorama is prevalent in camera software of smartphones. It is a method in which
    !pip install -r requirements.txt
    ```
 
-4. #### Add your custom images to the `input_img/` folder manually or using the command line:
+3. #### Add your custom images to the `input_img/` folder manually or using the command line:
     ```sh
     mv left.jpg middle.jpg right.jpg inputs/
     ```
    I have provided some images in the [input_img](https://github.com/shifs999/PanoStitch/tree/main/input_img) folder for trial purposes.
 
-*Note:* Ensure that images have overlapping regions and the sequence of images must be ordered `left to right` from the viewing point. So, in order to get desired panorama image, please name and insert the images in correct order for the model to grasp the order lexograpically.
+   *Note:* Ensure that images have overlapping regions and the sequence of images must be ordered `left to right` from the viewing point. So, in order to get desired panorama image, please name and insert the 
+    images in correct order for the model to grasp the order lexograpically.
 
 
-5. #### Run the script
+4. #### Run the script
     Can provide the path to each file(in order)
     ```sh
     python panorama.py input_img/pano_test/left.jpg input_img/pano_test/right.jpg
@@ -49,7 +50,7 @@ Panorama is prevalent in camera software of smartphones. It is a method in which
     ```sh
     python panorama.py input_img/
     ```
-6. #### Output
+5. #### Output
 
    ```sh
    Initializing...
