@@ -27,9 +27,11 @@ Panorama is prevalent in camera software of smartphones. It is a method in which
     ```
     
    ** Install the requirements.txt file.
+   ```sh
+   !pip install -r requirements.txt
    
 
-3. #### Add your custom images to the `input_img/` folder manually or using the command line:
+4. #### Add your custom images to the `input_img/` folder manually or using the command line:
     ```sh
     mv left.jpg middle.jpg right.jpg inputs/
     ```
@@ -58,7 +60,9 @@ Panorama is prevalent in camera software of smartphones. It is a method in which
    ```
 
 - The above output will be stored in the folder [outputs/pano_test](https://github.com/shifs999/PanoStitch/tree/main/outputs/pano_test)
+  
 ---
+
 ## Results
 
  ### 1. Input Images (Test 1)
