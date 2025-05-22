@@ -32,7 +32,7 @@ Panorama is prevalent in camera software of smartphones. It is a method in which
 
 3. #### Add your custom images to the `input_img/` folder manually or using the command line:
     ```sh
-    mv left.jpg middle.jpg right.jpg inputs/
+    mv left.jpg middle.jpg right.jpg input_img/
     ```
    I have provided some images in the [input_img](https://github.com/shifs999/PanoStitch/tree/main/input_img) folder for trial purposes.
 
