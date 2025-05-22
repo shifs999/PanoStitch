@@ -1,4 +1,5 @@
 ## :) PanoStitch - Seamless panoramic stitching
+
 ---
 
 ## * Introduction *
@@ -6,10 +7,9 @@
 Panorama is prevalent in camera software of smartphones. It is a method in which we first take a number of images, and then stitch them together to form a bigger and combined image, with significantly larger horizon.
 - This project seamlessly stitches multiple overlapping images into a single panoramic image.
 - Utilizing computer vision techniques such as SIFT, Homography estimation, RANSAC, and weighted blending, this project offers an efficient solution for panoramic image creation.
-- By titching multiple images using `recursion`, a wider panorama can be obtained.
+- By stitching multiple images using `recursion`, a wider panorama can be obtained.
 
 - ## Try it out
-
 
 1. #### Clone and cd to the repository:
 
@@ -126,7 +126,6 @@ Panorama is prevalent in camera software of smartphones. It is a method in which
 - [Distinctive Image Features from Scale-Invariant Keypoints(SIFT) Paper](https://people.eecs.berkeley.edu/~malik/cs294/lowe-ijcv04.pdf)
 - [Single-Perspective Warps in Natural Image Stitching Paper](https://arxiv.org/pdf/1802.04645)
 ---
-
 
 ## Contributions 
 
